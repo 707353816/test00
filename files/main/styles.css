@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:375px;
+  width:374px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -7259,7 +7259,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:375px;
+  width:376px;
   height:56px;
   background:inherit;
   background-color:rgba(0, 0, 0, 1);
@@ -7274,16 +7274,16 @@
 }
 #u601 {
   position:absolute;
-  left:0px;
+  left:-1px;
   top:611px;
-  width:375px;
+  width:376px;
   height:56px;
 }
 #u602 {
   position:absolute;
   left:2px;
   top:20px;
-  width:371px;
+  width:372px;
   visibility:hidden;
   word-wrap:break-word;
 }
